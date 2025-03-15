@@ -15,7 +15,7 @@
       opacity: 1;
     }
   }
-  
+
   .cards__card {
     width: 220px;
     height: 130px;
@@ -94,7 +94,15 @@
     background-color: #FFE4C2;
     color: #FF6D00;
   }
-  
+  ._green {
+    background-color: #B4FDD1;
+    color: #06B16E;
+  }
+  ._purple {
+    background-color: #E9D4FF;
+    color: #9A48F1;
+  }
+
   @media screen and (max-width: 1200px) {
     .cards__card {
         width: 220px;

@@ -3,7 +3,6 @@
     margin: 0 auto;
     display: block;
   }
-  
   .column__title {
     padding: 0 10px;
     margin: 15px 0;
@@ -23,8 +22,8 @@
   
   @media screen and (max-width: 1200px) {
     .cards {
-      width: 100%;
-      display: flex;
-      overflow-y: auto;
+    width: 100%;
+    display: flex;
+    overflow-y: auto;
     }
   }
